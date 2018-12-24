@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Release\VendingMachine.exe.config
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Release\VendingMachine.exe
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Release\VendingMachine.pdb
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Release\VendingMachine.VendingMachine.resources
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Release\VendingMachine.Properties.Resources.resources
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Release\VendingMachine.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Release\VendingMachine.exe
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Release\VendingMachine.pdb

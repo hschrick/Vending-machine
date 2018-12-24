@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+\\Mac\Home\Desktop\New folder\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+\\Mac\Home\Desktop\proj\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+\\Mac\Home\Desktop\proj\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+\\Mac\Home\Desktop\proj\CIS501_Project3_VM_Project (5)\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
